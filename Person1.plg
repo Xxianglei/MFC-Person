@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Person1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP3993.tmp" with contents
+[
+/nologo /MTd /w /W0 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /U "_DEBUG" /Fp"Debug/Person1.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\VC++6.0\Person1 - 副本 - 副本\Person1View.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP3993.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP3994.tmp" with contents
+[
+SkinPPWTL.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Person1.pdb" /debug /machine:I386 /out:"Debug/Person1.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\msflexgrid.obj"
+".\Debug\Mydb.obj"
+".\Debug\Mydb3.obj"
+".\Debug\Person1.obj"
+".\Debug\Person1Doc.obj"
+".\Debug\Person1View.obj"
+".\Debug\rowcursor.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Person1.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP3994.tmp"
+<h3>Output Window</h3>
+Compiling...
+Person1View.cpp
+Linking...
+LINK : warning LNK4098: defaultlib "LIBCMTD" conflicts with use of other libs; use /NODEFAULTLIB:library
+
+
+
+<h3>Results</h3>
+Person1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
