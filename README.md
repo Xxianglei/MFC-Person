@@ -21,7 +21,7 @@ MFC
 1.采用的access数据库建了一个person表和details表,分别管理员工具体个人信息,以及员工岗位.采用ODBC驱动.极其原始 哈哈哈!<br>
 2.表 https://github.com/Xxianglei/MFC-Person/blob/master/db1.mdb<br>
 # 具体功能
-1.岗位的安排,删除,调度,查找,员工个人信息的增加,删除,修改,查找...<br>
+1.岗位的安排,删除,调度,查找,员工个人信息的增加,删除,修改,查找....<br>
 
 # 参考资料
 https://github.com/Xxianglei/MFC-Person/blob/master/VC%2B%2B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BA%94%E7%94%A8.pdf<br>
