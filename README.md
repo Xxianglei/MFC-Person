@@ -1,4 +1,5 @@
 # 人员管理系统
+##本人博客 https://blog.csdn.net/u011583316</br>
 MFC
 ####程序设计实践作业——人员管理系统
 
@@ -26,3 +27,4 @@ MFC
 https://github.com/Xxianglei/MFC-Person/blob/master/VC%2B%2B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BA%94%E7%94%A8.pdf<br>
 
 https://github.com/Xxianglei/MFC-Person/blob/master/%E6%9E%84%E5%BB%BAFlexGrid%E7%94%A8%E4%BA%8E%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE.pdf<br>
+
