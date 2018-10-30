@@ -19,7 +19,7 @@
 
 # 数据库
 * 1.采用的access数据库建了一个person表和details表,分别管理员工具体个人信息,以及员工岗位.采用ODBC驱动.极其原始 哈哈哈!<br>
-* 2.表 https://github.com/Xxianglei/MFC-Person/blob/master/db1.mdb<br>
+* 2.[数据库] (https://github.com/Xxianglei/MFC-Person/blob/master/db1.mdb)<br>
 # 具体功能
 * 1.岗位的安排,删除,调度,查找,员工个人信息的增加,删除,修改,查找....<br>
 
