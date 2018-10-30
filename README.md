@@ -24,7 +24,7 @@
 * 1.岗位的安排,删除,调度,查找,员工个人信息的增加,删除,修改,查找....<br>
 
 # 参考资料
-https://github.com/Xxianglei/MFC-Person/blob/master/VC%2B%2B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BA%94%E7%94%A8.pdf<br>
+[资料一](https://github.com/Xxianglei/MFC-Person/blob/master/VC%2B%2B%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BA%94%E7%94%A8.pdf)<br>
 
-https://github.com/Xxianglei/MFC-Person/blob/master/%E6%9E%84%E5%BB%BAFlexGrid%E7%94%A8%E4%BA%8E%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE.pdf<br>
+[资料二](https://github.com/Xxianglei/MFC-Person/blob/master/%E6%9E%84%E5%BB%BAFlexGrid%E7%94%A8%E4%BA%8E%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE.pdf)<br>
 
